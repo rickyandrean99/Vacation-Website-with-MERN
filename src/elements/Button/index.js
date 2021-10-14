@@ -33,7 +33,6 @@ export default function Button(props) {
             </span>
         )
     }
-        
 
     if (props.type === 'link') {
         if (props.isExternal) {
